@@ -13,10 +13,11 @@ function About() {
           </Col>
         </Row>
         <Row>
-        <Col size="m-12">
+        <Col size="md-6">
           <img src="/Portfolio-images/About-me-portfolio-pic.jpg"
             class="float-left img-thumbnail me-3" alt="Tiffany Weaver" />
-
+            </Col>
+         <Col size="md-6">
           <p class="about-me-paragraph mt-3">Hello! My name is Tiffany Weaver and I'm a full-stack web developer.   
               I have a passion for coding, design and actualizing ideas. 
               I have earned my web-developement certification from the University of Central Florida's Coding Bootcamp. 
