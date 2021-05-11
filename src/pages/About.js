@@ -5,7 +5,7 @@ import Col from "../components/Col";
 
 function About() {
   return (
-    <div>
+    <div className="bg">
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
@@ -15,7 +15,7 @@ function About() {
         <Row>
         <Col size="md-6">
           <img src="/Portfolio-images/About-me-portfolio-pic.jpg"
-            class="float-left img-thumbnail me-3" alt="Tiffany Weaver" />
+            class="float-left img-thumbnail me-3" alt="Tiffany Weaver" fluid/>
             </Col>
          <Col size="md-6">
           <p class="about-me-paragraph mt-3">Hello! My name is Tiffany Weaver and I'm a full-stack web developer.   
