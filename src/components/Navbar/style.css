@@ -1,0 +1,18 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.navbar-nav {
+  margin-left: 200px;
+  float: right;
+  font-size: 1.25rem;
+}
+
+.nav-item {
+  padding: 0px 10px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #e09e86;
+  text-shadow: 2px 2px 2px gainsboro;
+}
