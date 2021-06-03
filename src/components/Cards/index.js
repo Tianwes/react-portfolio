@@ -55,7 +55,7 @@ function Cards() {
               href="https://radiant-island-35045.herokuapp.com/login"
             >
               <Card>
-                <Card.Img variant="top" src="Portfolio-images/DnDImage.jpg" />
+                <Card.Img variant="top" src="./Portfolio-images/DnDImage.jpg" />
                 <Card.Body>
                   <Card.Title className="cardTitle">
                     My DnD Spellbook
@@ -91,7 +91,7 @@ function Cards() {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="Portfolio-images/ProjectOneStill.jpg"
+                  src="./Portfolio-images/ProjectOneStill.jpg"
                 />
                 <Card.Body>
                   <Card.Title className="cardTitle">
@@ -127,7 +127,7 @@ function Cards() {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="Portfolio-images/workoutTracker.jpg"
+                  src="./Portfolio-images/workoutTracker.jpg"
                 />
                 <Card.Body>
                   <Card.Title className="cardTitle">Workout Tracker</Card.Title>
@@ -163,7 +163,7 @@ function Cards() {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="Portfolio-images/JavaScriptQuizStill.jpg"
+                  src="./Portfolio-images/JavaScriptQuizStill.jpg"
                 />
                 <Card.Body>
                   <Card.Title className="cardTitle">
@@ -198,7 +198,7 @@ function Cards() {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="Portfolio-images/JavascriptWorkPlanner.jpg"
+                  src="./Portfolio-images/JavascriptWorkPlanner.jpg"
                 />
                 <Card.Body>
                   <Card.Title className="cardTitle">
@@ -236,7 +236,7 @@ function Cards() {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="Portfolio-images/employee-directory.jpg"
+                  src="./Portfolio-images/employee-directory.jpg"
                 />
                 <Card.Body>
                   <Card.Title className="cardTitle">
@@ -269,7 +269,7 @@ function Cards() {
               href="https://mysterious-chamber-46750.herokuapp.com/"
             >
               <Card>
-                <Card.Img variant="top" src="Portfolio-images/note-taker.jpg" />
+                <Card.Img variant="top" src="./Portfolio-images/note-taker.jpg" />
                 <Card.Body>
                   <Card.Title className="cardTitle">Note Taker</Card.Title>
                   <Card.Text>
