@@ -5,6 +5,7 @@ import CardDeck from "react-bootstrap/CardDeck";
 // import Image from "react-bootstrap/Image";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
+import Image from "react-bootstrap/Image"
 
 import "./style.css";
 
@@ -23,7 +24,7 @@ function Cards() {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="/Portfolio-images/reel-junkie.jpg"
+                  src="./Portfolio-images/reel-junkie.jpg"
                 />
                 <Card.Body>
                   <Card.Title className="cardTitle">Reel Junkie</Card.Title>
